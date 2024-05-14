@@ -1,1 +1,1 @@
-# smart_it_test_tasks
+### Dont forget to change path folder with data to yours
