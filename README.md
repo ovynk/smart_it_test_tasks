@@ -1,0 +1,1 @@
+# smart_it_test_tasks
